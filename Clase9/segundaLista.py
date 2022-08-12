@@ -1,0 +1,16 @@
+lista = []
+
+print(lista)
+lista.append(1)
+print(lista)
+lista.append("Cartaguito campeon")
+print(lista)
+lista.append(10.2)
+print(lista)
+lista.append(2)
+print(lista)
+print("tamaño: ", len(lista) )
+lista.append("paula")
+lista.append("daniel")
+lista.append(233)
+print("tamaño: ", len(lista) )
